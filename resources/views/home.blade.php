@@ -25,6 +25,7 @@
                         <div class="btn-group pull-right">
                            <a href="{{$post->id}}/delete" class="btn btn-sm btn-danger ">Delete</a>
                            <a href="{{$post->id}}/view" class="btn btn-sm btn-success ">Edit/iew</a>
+                           <a href="{{$post->id}}/view" class="btn btn-sm btn-success ">test</a>
                          </div>
                        </li>
                     @endforeach
